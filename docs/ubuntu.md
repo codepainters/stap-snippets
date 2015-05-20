@@ -18,3 +18,4 @@ sudo apt-get update
 sudo apt-get install linux-image-$(uname -r)-dbgsym
 ```
 
+Note: it seems that `utopic-security` (i.e. 14.10) URL is broken for some reason at the moment.
